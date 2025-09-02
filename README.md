@@ -88,8 +88,6 @@ This project was developed as part of the course *Technology and Application of 
   * Alert presentation (multimodal warnings)
   * Idle & recovery (return to safe standby)
 
-👉 Full source code is available in [`SmartSafetyHelmet.ino`](SmartSafetyHelmet.ino).
-
 ---
 
 ## 📊 Performance
@@ -98,13 +96,6 @@ This project was developed as part of the course *Technology and Application of 
 * Stable for a **full 8-hour work shift** on a rechargeable power bank.
 * Cloud alerts published instantly via MQTT.
 * Secure communication (TLS 1.3, WPA2-Enterprise Wi-Fi).
-
----
-
-## 📸 Real Object Photos
-
-![Uploading IMG_20250701_205637.jpg…]()
-
 
 ---
 
