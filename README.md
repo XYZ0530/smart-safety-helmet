@@ -1,10 +1,7 @@
-Perfect — if you don’t have a wiring diagram image, a **clean wiring connections table** is just as professional (and sometimes clearer). I’ll add it as a section in your `README.md`, based on the pin mappings in your report.
-
-Here’s the updated version with the wiring table included:
-
 ---
 
 # Smart Safety Helmet 🦺🤖
+This project was developed as part of the course Technology and Application of IoT (SWE403) at Xiamen University Malaysia.
 
 ## 📌 Overview
 
