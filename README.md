@@ -36,6 +36,45 @@ This project was developed as part of the course *Technology and Application of 
 
 ---
 
+## 📸 Photos & Connectivity Demo  
+
+### Helmet Prototype (Real Object)
+
+<p float="left">
+  <img src="photos/IMG_20250701_205525.jpg" alt="Helmet Front" width="250" />
+  <img src="photos/IMG_20250701_205604.jpg" alt="Helmet Side" width="250" />
+  <img src="photos/IMG_20250701_205607.jpg" alt="Helmet Top" width="250" />
+</p>
+
+<p float="left">
+  <img src="photos/IMG_20250701_205620.jpg" alt="Helmet Angle" width="250" />
+  <img src="photos/IMG_20250701_205630.jpg" alt="Helmet Back" width="250" />
+  <img src="photos/IMG_20250701_205637.jpg" alt="Helmet Detail" width="250" />
+</p>
+
+<p float="left">
+  <img src="photos/IMG_20250701_205656.jpg" alt="Helmet Inside" width="250" />
+  <img src="photos/IMG_20250701_205717.jpg" alt="Helmet View 1" width="250" />
+  <img src="photos/IMG_20250701_205722.jpg" alt="Helmet View 2" width="250" />
+</p>
+
+<p float="left">
+  <img src="photos/IMG_20250701_205726.jpg" alt="Helmet View 3" width="250" />
+  <img src="photos/IMG_20250701_205726~2.jpg" alt="Helmet View 4" width="250" />
+</p>
+
+---
+
+### Alert & Connectivity (Phone App)
+
+<p float="left">
+  <img src="photos/Report.jpg" alt="Alert Message 1" width="300" />
+  <img src="photos/Report1.jpg" alt="Alert Message 2" width="300" />
+  <img src="photos/Report2.jpg" alt="Alert Message 3" width="300" />
+</p>
+
+---
+
 ## 🛠️ System Workflow
 
 1. **Continuous monitoring** of temperature, smoke, light levels, and motion.
